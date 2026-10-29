@@ -1,0 +1,9 @@
+[
+null,
+{"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":811,"scrollY":727.5},
+{"id":2,"expanded":true,"name":"MAP002","order":2,"parentId":1,"scrollX":819,"scrollY":499.5},
+{"id":3,"expanded":false,"name":"室内","order":3,"parentId":2,"scrollX":819,"scrollY":499.5},
+{"id":4,"expanded":true,"name":"幽霊の家","order":5,"parentId":0,"scrollX":819,"scrollY":499.5},
+{"id":5,"expanded":false,"name":"MAP005","order":4,"parentId":2,"scrollX":811,"scrollY":800.5},
+{"id":6,"expanded":true,"name":"幽霊の家2階","order":6,"parentId":4,"scrollX":819,"scrollY":499.5}
+]
